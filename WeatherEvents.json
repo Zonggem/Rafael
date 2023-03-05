@@ -1,0 +1,34 @@
+[
+    {
+        "datetime":"25/02/2023 - 12:00:13",
+        "isLightning":false,
+        "isThunder":true
+    },
+    {
+        "datetime":"25/02/2023 - 13:07:03",
+        "isLightning":true,
+        "isThunder":true
+    },
+    {
+        "datetime":"25/02/2023 - 10:00:03",
+        "isLightning":true,
+        "isThunder":false
+    },
+    {
+        "datetime":"25/02/2023 - 12:00:13",
+        "isLightning":false,
+        "isThunder":false
+    },
+    {
+        "datetime":"25/02/2023 - 12:00:13",
+        "isLightning":true,
+        "isThunder":false
+    },
+    {
+        "datetime":"25/02/2023 - 12:34:13",
+        "isLightning":true,
+        "isThunder":false
+    }
+]
+
+
